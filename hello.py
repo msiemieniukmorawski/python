@@ -15,3 +15,5 @@ print(lorem[0])
 print(lorem[6:11])
 print(lorem[:11])
 print(len(lorem))
+
+print('Lorem' in lorem)
