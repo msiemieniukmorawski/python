@@ -1,15 +1,30 @@
 string1 = "Ala ma kota, kot ma Ale"
 string2 = "Arek woli psy, a najbardziej boksery"
 
+A=ord('A')
+l=ord('l')
+a=ord('a')
+sapce=ord(' ')
+m=ord('m')
+k=ord('k')
+o=ord('o')
+t=ord('t')
+comma=ord(',')
+e=ord('e')
 
-#           A           R           E           K       sapce       w           o           l       i           space       p           s       y           comma       saoce     a     space      n           a        j           b           a       r           d           z         i         e           j        sapce      b           o        k          s           e           r         y
-new_string = chr(65) + chr(114) + chr(101) + chr(107) + chr(32) + chr(119) + chr(111) + chr(108) + chr(105)  + chr(32) + chr(112) + chr(115) + chr(121) + chr(44) + chr(32) + chr(97) + chr(32) + chr(110) + chr(97) + chr(106) + chr(98) + chr(97) + chr(114) + chr(100) + chr(112) + chr(105) + chr(101) + chr(106) + chr(32) + chr(98) + chr(111) + chr(107) + chr(115) + chr(101) + chr(114) + chr(121)
 
+r= t - 2
+w= t + 3
+i= t - 11
+p= t - 4
+s= t - 1
+y= t + 5
+n= t - 6
+j= t - 10
+b= t - 18
+d= t - 16
+z= t + 6
 
-print(new_string)
+new_string2 = chr(A) + chr(r) + chr(e) + chr(k) + chr(sapce) + chr(w) + chr(o) + chr(l) + chr(i) + chr(sapce) + chr(p) + chr(s) + chr(y) + chr(comma) + chr(sapce) + chr(a) + chr(sapce) + chr(n) + chr(a) + chr(j) + chr(b) + chr(a) + chr(r) + chr(d) + chr(z) + chr(i) + chr(e) + chr(j) + chr(sapce) + chr(b) + chr(o) + chr(k) + chr(s) + chr(e) + chr(r) + chr(y)
 
-
-
-
-
-
+print(new_string2)
