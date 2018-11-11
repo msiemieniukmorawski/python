@@ -1,0 +1,8 @@
+To jest mój tekst. To
+jest kolejna linijka tekstu, 
+        a to kolejna.
+Dopisana linijka tekstu
+Dopisana linijka tekstu
+Dopisana linijka tekstu
+Dopisana linijka tekstu
+Dopisana linijka tekstu
